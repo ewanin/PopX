@@ -43,7 +43,7 @@ const LoginPage = () => {
                     />
                 </div>
                 <button type="submit"
-                    className="bg-[#cebafb] hover:opacity-100 text-white opacity-75 font-bold py-3 px-4 rounded-lg w-full text-sm tracking-wide mt-4"
+                    className="bg-[#6c25ff] hover:bg-[#4513ab] text-white hover:opacity-100 opacity-75 font-bold py-3 px-4 rounded-lg w-full text-sm tracking-wide mt-4"
                 >
                     Login
                 </button>
